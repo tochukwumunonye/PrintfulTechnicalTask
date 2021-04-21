@@ -1,6 +1,6 @@
 # PrintfulTechnicalTask  ![Android Build](https://github.com/mayokunthefirst/CardInfoFinder/workflows/Android%20Build/badge.svg) [![BCH compliance](https://bettercodehub.com/edge/badge/mayokunthefirst/CardInfoFinder?branch=master)](https://bettercodehub.com/)
 
-PrintfulTechnicalTask is an Android application that uses an API to fetch data from a web and displays the data as a list.
+PrintfulTechnicalTask is an Android application that uses an retrofit to fetch data from a web through an API and displays the data as a list.
 This application makes use of the [Unsplash API](https://unsplash.com/developers/).
 
 
