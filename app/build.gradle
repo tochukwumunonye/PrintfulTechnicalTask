@@ -3,7 +3,7 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-android-extensions'
     id 'kotlin-kapt'
-    apply plugin: "androidx.navigation.safeargs.kotlin"
+    id  "androidx.navigation.safeargs.kotlin"
     id 'dagger.hilt.android.plugin'
 }
 

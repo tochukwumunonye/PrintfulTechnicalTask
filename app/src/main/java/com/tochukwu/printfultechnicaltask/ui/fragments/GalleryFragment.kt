@@ -16,8 +16,11 @@ import com.tochukwu.printfultechnicaltask.adapters.UnsplashPhotoAdapter
 import com.tochukwu.printfultechnicaltask.data.UnsplashPhoto
 import com.tochukwu.printfultechnicaltask.databinding.FragmentGalleryBinding
 import com.tochukwu.printfultechnicaltask.ui.viewModels.GalleryViewModel
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class GalleryFragment :  Fragment(R.layout.fragment_gallery), UnsplashPhotoAdapter.OnItemClickListener {
+
 
     private val viewModel by viewModels<GalleryViewModel>()
 
