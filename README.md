@@ -4,6 +4,12 @@ PrintfulTechnicalTask is an Android application that uses an API to fetch data f
 This application makes use of the [Unsplash API](https://unsplash.com/developers/).
 
 
+![IMG_20210421_151229](https://user-images.githubusercontent.com/61085272/115569773-76274f00-a2b5-11eb-8ef9-2bad930d2188.jpg)
+![IMG_20210421_151052](https://user-images.githubusercontent.com/61085272/115569785-77587c00-a2b5-11eb-88bc-89bb6cda78bf.jpg)
+![IMG_20210421_151132](https://user-images.githubusercontent.com/61085272/115569810-7c1d3000-a2b5-11eb-85d6-0418c5582098.jpg)
+![IMG_20210421_151152](https://user-images.githubusercontent.com/61085272/115569763-745d8b80-a2b5-11eb-9e17-9235bce854e1.jpg)
+
+
 ## Project Characteristics
 
 This project makes use of the following tools and solutions:
